@@ -24,4 +24,4 @@ function maxSum(arr, n, k) {
 let arr = [ 1, 4, 2, 10, 2, 3, 1, 0, 20 ];
 let k = 4;
 let n = arr.length;
-document.write(maxSum(arr, n, k));
+console.log(maxSum(arr, n, k));
